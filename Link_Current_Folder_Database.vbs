@@ -8,7 +8,7 @@ strBE = strDir & "\process_opp_be.accdb"
 
 'strFE =  "C:\Users\Kaizaki Arata\Desktop\MSW-Process-PVC\process_pvc.accdb"
 'strBE =  "\\process-pvc\e\10. Process PVC Database\process_pvc_be.accdb"
-strUserAuthBE = "D:\Kaizaki Arata\Document\MS Access\MSW-User-Authentication\UserAuthorization_be.accdb"
+strUserAuthBE = "C:\Kaizaki\Document\MS Access\MSW-UserAuthentication\UserAuthorization_be.accdb"
 
 set app = CreateObject("Access.Application")
 set wks = app.dbEngine.createworkspace("", "admin", "", 2) 'dbUseJet

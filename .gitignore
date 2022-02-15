@@ -1,6 +1,11 @@
 *.laccdb
 Personal Note.txt
 Link_Current_Folder_Database
-Link_PROCESS_OPP_Database 
+Link_PROCESS_OPP_Database
 main
+*.bak
 .gitignore
+*.vbs
+Link_Current_Folder_Database.vbs
+process_opp_be.accdb
+*.txt
